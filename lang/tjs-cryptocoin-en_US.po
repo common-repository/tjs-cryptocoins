@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TJS CryptoCoins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-25 21:23+0000\n"
+"PO-Revision-Date: 2016-10-25 21:25+0000\n"
+"Last-Translator: Tomjesch <thomasjesperschmidt@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: inc/tjs-bitcoin-widget.php:7
+msgid "Bitcoin QR widget"
+msgstr "Bitcoin QR widget"
+
+#. Widget name will appear in UI
+#: inc/tjs-bitcoin-widget.php:12
+msgid "Bitcoin QR-code Widget"
+msgstr "Bitcoin QR-code Widget"
+
+#: inc/tjs-bitcoin-widget.php:14
+msgid "A widget to allow visitors to donate Bitcoins"
+msgstr "A widget to allow visitors to donate Bitcoins"
+
+#: inc/tjs-bitcoin-widget.php:38 inc/tjs-gulden-widget.php:38
+msgid "Widget header:"
+msgstr "Widget header:"
+
+#: inc/tjs-bitcoin-widget.php:43 inc/tjs-gulden-widget.php:43
+msgid "Message:"
+msgstr "Message:"
+
+#: inc/tjs-bitcoin-widget.php:48 inc/tjs-gulden-widget.php:48
+msgid "Address:"
+msgstr "Address:"
+
+#: inc/tjs-bitcoin-widget.php:78
+msgid "Buy Bitcoins"
+msgstr "Buy Bitcoins"
+
+#: inc/tjs-gulden-widget.php:7
+msgid "Gulden QR widget"
+msgstr "Gulden QR widget"
+
+#. Widget name will appear in UI
+#: inc/tjs-gulden-widget.php:12
+msgid "Gulden QR-code Widget"
+msgstr "Gulden QR-code Widget"
+
+#: inc/tjs-gulden-widget.php:14
+msgid "A widget to allow visitors to donate Guldens"
+msgstr "A widget to allow visitors to donate Guldens"
+
+#: inc/tjs-gulden-widget.php:78
+msgid "Buy Guldens"
+msgstr "Buy Guldens"
+
+#. Name of the plugin
+msgid "TJS CryptoCoins"
+msgstr "TJS CryptoCoins"
+
+#. Description of the plugin
+msgid "Receive Bitcoins or Gulden donations with this QR Code widget."
+msgstr "Receive Bitcoins or Gulden donations with this QR Code widget."
+
+#. URI of the plugin
+msgid "http://www.tschmidt.nl"
+msgstr "http://www.tschmidt.nl"
+
+#. Author URI of the plugin
+msgid "http://www.tschmidt.nl/"
+msgstr "http://www.tschmidt.nl/"

@@ -1,0 +1,7 @@
+.tjs-nlg-btn{background-color:#127cc6;color:#fff;border-radius:3px;display:block;transition:background-color 0.5s ease}
+.tjs-nlg-btn:hover{color:#fff;background-color:#40c294}
+.tjs-nlg-btn img{vertical-align:middle;margin: 10px 15px}
+.tjs-btc-btn{background-color:#f7931a;color:#fff;border-radius:3px;display:block;transition:background-color 0.5s ease}
+.tjs-btc-btn:hover{color:#fff;background-color:#fab915}
+.tjs-btc-btn img{vertical-align:middle;margin: 10px 15px}
+.tjs-qr-code > div{width:100% !important;height:auto}
